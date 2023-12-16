@@ -5,7 +5,7 @@ import numpy as np
 feature_params = dict(maxCorners=100, qualityLevel=0.3, minDistance=7, blockSize=7)
 lk_params = dict(winSize=(15, 15), maxLevel=2, criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 0.03))
 
-face_cascade = cv2.CascadeClassifier(r'E:\Python\CV\haar-like_dataset\haar-like_model.xml')
+face_cascade = cv2.CascadeClassifier(r'E:\Python\CV\HaarCascade-Face-detection\haar-like_model.xml')
 
 cap = cv2.VideoCapture(r'E:\Python\CV\haar-like_dataset\test_video\classroom3.mp4')
 #cap = cv2.VideoCapture(0)
