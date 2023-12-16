@@ -1,12 +1,9 @@
 import cv2
 
-face_cascade = cv2.CascadeClassifier(r'E:\Python\CV\haar-like_dataset\haar-like_model.xml')
+face_cascade = cv2.CascadeClassifier(r'E:\Python\CV\HaarCascade-Face-detection\haar-like_model.xml')
 
-#cap = cv2.VideoCapture(r'E:\Python\CV\haar-like_dataset\test_video\video_moi_nguoi.mp4')  
-#cap = cv2.VideoCapture(r'E:\Python\CV\haar-like_dataset\test_video\classroom.mp4')
-#cap = cv2.VideoCapture(r'E:\Python\CV\haar-like_dataset\test_video\classroom2.mp4')
+
 cap = cv2.VideoCapture(r'E:\Python\CV\haar-like_dataset\test_video\classroom3.mp4')
-#cap = cv2.VideoCapture(r'E:\Python\CV\haar-like_dataset\test_video\classroom4.mp4')
 #cap = cv2.VideoCapture(0) 
 
 counter = 0
