@@ -10,5 +10,7 @@ Model is trained from dataset that included Positive and Negative set. Positive 
 Negative set includes 72 classroom interior images from Indoor Scene Recognition(A. Quattoni and A.Torralba 2009)
 ## Result
 |  Original Image                                                                |  Result                                                         | 
-|--------------------------------------------------------------------------------|-----------------------------------------------------------------|
-|![original](<img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tiennhat0.png" width="192" height="108">) |![esult](<img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tagged_tiennhat0.png" width="384" height="216">)  |
+| Original | Result |
+| --- | --- |
+| ![Original Image](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tiennhat0.png) | ![Result Image](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tiennhat0.png) |
+
