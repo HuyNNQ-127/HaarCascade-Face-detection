@@ -17,12 +17,12 @@ Apply Face detection model to images not in the trainning set, we have the follo
 With a video of classroom as input for the model
 
 <p align="center">
-  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1.PNG" width="200">
-  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor15.PNG" width="200">
+  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1.PNG">
+  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1_klt.PNG" width="200">
-  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5_klt.PNG" width="200">
+  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1_klt.PNG">
+  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5_klt.PNG">
 </p>
 
