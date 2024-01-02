@@ -14,12 +14,11 @@ Apply Face detection model to images not in the trainning set, we have the follo
 | --- | --- |
 | ![Original Image](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tiennhat0.png) | ![Result Image](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tagged_tiennhat0.png) |
 
-With a video of classroom as input for the model
+With a video of classroom as input for the model, 
+| min neighbor = 1                                | min neighbor = 5                                |
+| ------------------------------------------------ | ------------------------------------------------ |
+| ![min neighbor = 1](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1.PNG) | ![min neighbor = 5](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5.PNG) |
 
-<p align="center">
-  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1.PNG">
-  <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5.PNG">
-</p>
 
 <p align="center">
   <img src="https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1_klt.PNG">
