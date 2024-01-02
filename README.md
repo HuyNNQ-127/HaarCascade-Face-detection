@@ -14,12 +14,12 @@ Apply Face detection model to images not in the trainning set, we have the follo
 | --- | --- |
 | ![Original Image](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tiennhat0.png) | ![Result Image](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/tagged_tiennhat0.png) |
 
-# Using SVM for tracking features
+### Using SVM for tracking features
 | min neighbor = 1                                | min neighbor = 5                                |
 | ------------------------------------------------ | ------------------------------------------------ |
 | ![min neighbor = 1](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1.PNG) | ![min neighbor = 5](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5.PNG) |
 
-# Using KLT algorithm for tracking features
+### Using KLT algorithm for tracking features
 | min neighbor = 1                                      | min neighbor = 5                                      |
 | ------------------------------------------------------ | ------------------------------------------------------ |
 | ![min neighbor = 1](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor1_klt.PNG) | ![min neighbor = 5](https://github.com/HuyNNQ-127/HaarCascade-Face-detection/blob/main/assets/minneighbor5_klt.PNG) |
